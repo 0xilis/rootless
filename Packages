@@ -1,0 +1,41 @@
+Package: cum.0xilis.safecuts
+Name: Safecuts
+Author: Snoolie K
+Description: Fix iOS 15.0-15.3.1 hidden actions vuln
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.1
+Filename: ./debs/Safecuts-1.1-Rootless-Only.deb
+Size: 8936
+MD5sum: 5b8ca65228212378b0f61fbef9e155fc
+SHA1: 31118ab2b349f5b689504abd7c07ad1c1ace778c
+SHA256: 66aac3a3eae5bdb0fcb1a3905a42c570533b92eb267cde75628c71c088463319
+
+Package: cum.0xilis.snooliebattery
+Name: SnoolieBattery
+Author: Snoolie K
+Description: Battery Percent on iOS 15
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/SnoolieBattery-1.0-Rootless.deb
+Size: 3672
+MD5sum: c01cc7fabe3b9474c6ff48921cb2ba18
+SHA1: 97a07edd258fc82afc34e6601fcf54f0d256702f
+SHA256: 43dc6b7a72810508a6331cc1db54c3051c3aa9787ceec870cf3fa3c1119fef2a
+
+Package: cum.0xilis.unsigncuts
+Name: Unsigncuts
+Author: Snoolie K
+Description: Import unsigned shortcut files
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0.1
+Filename: ./debs/Unsigncuts-1.0.1-Rootless.deb
+Size: 3644
+MD5sum: 5310279437b19724221d3eda82405026
+SHA1: ab4287468458ba26d9415421ae7e119eb258468d
+SHA256: ef82fd25e68daf1bc24b4deed6e56503ec4f66ff4478cadd3a50e58417b3b088
