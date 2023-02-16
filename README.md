@@ -20,3 +20,19 @@ Enable battery percent for notched devices on iOS 15.
 Import unsigned shortcut files
 
 **Source:** [https://github.com/0xilis/Unsigncuts](https://github.com/0xilis/Unsigncuts)
+
+## AnotherLazyHideDockTweak
+
+Hide the dock.
+
+## Dotless
+
+Hide page dots.
+
+## HideMyVPN
+
+Hide VPN is status bar, even when a VPN is enabled.
+
+## Lightshake
+
+Shake your device to toggle flashlight.

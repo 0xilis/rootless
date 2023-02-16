@@ -39,3 +39,59 @@ Size: 3644
 MD5sum: 5310279437b19724221d3eda82405026
 SHA1: ab4287468458ba26d9415421ae7e119eb258468d
 SHA256: ef82fd25e68daf1bc24b4deed6e56503ec4f66ff4478cadd3a50e58417b3b088
+
+Package: cum.0xilis.anotherlazyhidedocktweak
+Name: AnotherLazyHideDockTweak
+Author: Snoolie K
+Description: Import unsigned shortcut files
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.1
+Filename: ./debs/AnotherLazyHideDockTweak-1.1-Rootless.deb
+Size: 4056
+MD5sum: 511f31de082700dca7688473f2b62380
+SHA1: b1e62860d5ba6ec04c8d481474a9c9e3af5d4a70
+SHA256: c0a83398a0546bdcf8c9f6007c8f5c34a9b0a586080cf771d0a6173859b28b53
+
+Package: cum.0xilis.dotless
+Name: Dotless
+Author: Snoolie K
+Description: Remove page dots
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/Dotless-1.0-Rootless.deb
+Size: 3392
+MD5sum: cd8f36db55d5c0210f73914c57114dae
+SHA1: d5b37457b8839b073c884be7dc6299aa6cb83588
+SHA256: 3ceb156a74ce90abebc8132f4faa39da09279e29ca11e53bd4e6258b21b34ee9
+
+Package: cum.0xilis.hidemyvpn
+Name: HideMyVPN
+Author: Snoolie K
+Description: Don't show VPN in Status Bar
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/HideMyVPN-1.0-Rootless.deb
+Size: 3472
+MD5sum: 3d728b114bf5064e3f80210c0f1543c2
+SHA1: 0a6ae13f07825f365e720040da9e9bb40bd5dd80
+SHA256: 64f3314ec9aeaa497e17d65ac38b9ad67742a5c4e2bec7d0683d8dd925f9d954
+
+Package: cum.0xilis.lightshake
+Name: Lightshake
+Author: Snoolie K
+Description: Shake to toggle flashlight
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0.0
+Filename: ./debs/Lightshake-1.0-Rootless.deb
+Size: 4032
+MD5sum: b7c943bd57798a6f9f1597880dccaf6b
+SHA1: 56275b73212d733fa3b5b7464038b2c497c421e2
+SHA256: 44c17d8536a45833bb0f1d7fc89231e047afdc7a886d35cf7787adf1eba1f680
