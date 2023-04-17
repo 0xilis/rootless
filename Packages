@@ -40,6 +40,20 @@ MD5sum: 5310279437b19724221d3eda82405026
 SHA1: ab4287468458ba26d9415421ae7e119eb258468d
 SHA256: ef82fd25e68daf1bc24b4deed6e56503ec4f66ff4478cadd3a50e58417b3b088
 
+Package: cum.0xilis.unsigncuts
+Name: Unsigncuts
+Author: Snoolie K
+Description: Import unsigned shortcut files
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 2.0
+Filename: ./debs/cum.0xilis.unsigncuts_2.0_iphoneos-arm64.deb
+Size: 818456
+MD5sum: 74fa5cf81ee256c481f2b3a594195dbf
+SHA1: cdfa117573904965383a78a87026947aebc769a1
+SHA256: 43f0030a17f319264f8b8fc736690c63a196a4f67ba02a19a2abc733ed7e669a
+
 Package: cum.0xilis.anotherlazyhidedocktweak
 Name: AnotherLazyHideDockTweak
 Author: Snoolie K
